@@ -1,3 +1,6 @@
 [submodule "Lost_and_Found_backend"]
 	path = Lost_and_Found_backend
 	url = git@github.com:Night-Voyager/Lost_and_Found_backend.git
+[submodule "Lost_and_Found_frontend"]
+	path = Lost_and_Found_frontend
+	url = git@github.com:Night-Voyager/Lost_and_Found_frontend.git
